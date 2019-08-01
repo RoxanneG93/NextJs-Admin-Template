@@ -1,0 +1,29 @@
+{
+  "name": "next_bootstrap_admin_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "bootstrap": "^4.3.1",
+    "classnames": "^2.2.6",
+    "jquery": "^3.4.1",
+    "next": "^9.0.3",
+    "node-sass": "^4.12.0",
+    "popper.js": "^1.15.0",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.10",
+    "react-dom": "^16.8.6",
+    "react-google-maps": "^9.4.5",
+    "react-notification-system": "^0.2.17",
+    "reactstrap": "^8.0.1"
+  }
+}
