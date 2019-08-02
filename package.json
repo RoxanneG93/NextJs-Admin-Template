@@ -6,14 +6,21 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "npm run build && next export"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.8",
+    "@fortawesome/free-brands-svg-icons": "^5.5.0",
+    "@fortawesome/free-regular-svg-icons": "^5.5.0",
+    "@fortawesome/free-solid-svg-icons": "^5.5.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-sass": "^1.0.1",
     "bootstrap": "^4.3.1",
+    "chart.js": "^2.8.0",
     "classnames": "^2.2.6",
     "jquery": "^3.4.1",
     "next": "^9.0.3",
@@ -21,6 +28,7 @@
     "popper.js": "^1.15.0",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.10",
+    "react-chartjs-2": "^2.7.6",
     "react-dom": "^16.8.6",
     "react-google-maps": "^9.4.5",
     "react-notification-system": "^0.2.17",
