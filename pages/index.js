@@ -71,8 +71,6 @@ class Index extends React.Component {
     return (
       <>
         <Header />
-        {/* Page content */}
-        {/* <Sidebar /> */}
         <Container className="mt--7" fluid>
           <Row>
             <Col className="mb-5 mb-xl-0" xl="8">
@@ -117,7 +115,7 @@ class Index extends React.Component {
                   </Row>
                 </CardHeader>
                 <CardBody>
-                  {/* Chart */}
+                  {/* ===== Chart ====== */}
                   <div className="chart">
                     <Line
                       data={chartExample1[this.state.chartExample1Data]}
@@ -141,7 +139,7 @@ class Index extends React.Component {
                   </Row>
                 </CardHeader>
                 <CardBody>
-                  {/* Chart */}
+                  {/* ===== Chart====== */}
                   <div className="chart">
                     <Bar
                       data={chartExample2.data}
