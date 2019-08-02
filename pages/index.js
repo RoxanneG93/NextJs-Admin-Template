@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Link from "next/Link";
-import 'bootstrap/dist/css/bootstrap.min.css';
-import '../styles/main.scss';
+//import 'bootstrap/dist/css/bootstrap.min.css';
+//import '../styles/main.scss';
 
 
 

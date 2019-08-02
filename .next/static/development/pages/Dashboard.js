@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\Dashboard.js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\dashboard.js"],{
 
 /***/ "./components/Card/Card.jsx":
 /*!**********************************!*\
@@ -22,7 +22,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\19402\\Desktop\\Roxanne\\Next_Bootstrap_Admin_Template\\components\\Card\\Card.jsx";
+var _jsxFileName = "C:\\Users\\RxRbl\\Desktop\\Work\\Next_Admin_BS_Template\\NextJs-Admin-Template\\components\\Card\\Card.jsx";
 
 /*!
 
@@ -158,7 +158,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\19402\\Desktop\\Roxanne\\Next_Bootstrap_Admin_Template\\components\\CustomButton\\CustomButton.jsx";
+var _jsxFileName = "C:\\Users\\RxRbl\\Desktop\\Work\\Next_Admin_BS_Template\\NextJs-Admin-Template\\components\\CustomButton\\CustomButton.jsx";
 
 /*!
 
@@ -264,7 +264,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\19402\\Desktop\\Roxanne\\Next_Bootstrap_Admin_Template\\components\\CustomCheckbox\\CustomCheckbox.jsx";
+var _jsxFileName = "C:\\Users\\RxRbl\\Desktop\\Work\\Next_Admin_BS_Template\\NextJs-Admin-Template\\components\\CustomCheckbox\\CustomCheckbox.jsx";
 
 /*!
 
@@ -380,7 +380,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\19402\\Desktop\\Roxanne\\Next_Bootstrap_Admin_Template\\components\\StatsCard\\StatsCard.jsx";
+var _jsxFileName = "C:\\Users\\RxRbl\\Desktop\\Work\\Next_Admin_BS_Template\\NextJs-Admin-Template\\components\\StatsCard\\StatsCard.jsx";
 
 /*!
 
@@ -528,7 +528,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\19402\\Desktop\\Roxanne\\Next_Bootstrap_Admin_Template\\components\\Tasks\\Tasks.jsx";
+var _jsxFileName = "C:\\Users\\RxRbl\\Desktop\\Work\\Next_Admin_BS_Template\\NextJs-Admin-Template\\components\\Tasks\\Tasks.jsx";
 
 /*!
 
@@ -5033,21 +5033,21 @@ module.exports = invariant;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2FDashboard&absolutePagePath=C%3A%5CUsers%5C19402%5CDesktop%5CRoxanne%5CNext_Bootstrap_Admin_Template%5Cpages%5CDashboard.js!./":
-/*!*********************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2FDashboard&absolutePagePath=C%3A%5CUsers%5C19402%5CDesktop%5CRoxanne%5CNext_Bootstrap_Admin_Template%5Cpages%5CDashboard.js ***!
-  \*********************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fdashboard&absolutePagePath=C%3A%5CUsers%5CRxRbl%5CDesktop%5CWork%5CNext_Admin_BS_Template%5CNextJs-Admin-Template%5Cpages%5Cdashboard.js!./":
+/*!***********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fdashboard&absolutePagePath=C%3A%5CUsers%5CRxRbl%5CDesktop%5CWork%5CNext_Admin_BS_Template%5CNextJs-Admin-Template%5Cpages%5Cdashboard.js ***!
+  \***********************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-    (window.__NEXT_P=window.__NEXT_P||[]).push(["/Dashboard", function() {
-      var page = __webpack_require__(/*! ./pages/Dashboard.js */ "./pages/Dashboard.js")
+    (window.__NEXT_P=window.__NEXT_P||[]).push(["/dashboard", function() {
+      var page = __webpack_require__(/*! ./pages/dashboard.js */ "./pages/dashboard.js")
       if(true) {
-        module.hot.accept(/*! ./pages/Dashboard.js */ "./pages/Dashboard.js", function() {
-          if(!next.router.components["/Dashboard"]) return
-          var updatedPage = __webpack_require__(/*! ./pages/Dashboard.js */ "./pages/Dashboard.js")
-          next.router.update("/Dashboard", updatedPage.default || updatedPage)
+        module.hot.accept(/*! ./pages/dashboard.js */ "./pages/dashboard.js", function() {
+          if(!next.router.components["/dashboard"]) return
+          var updatedPage = __webpack_require__(/*! ./pages/dashboard.js */ "./pages/dashboard.js")
+          next.router.update("/dashboard", updatedPage.default || updatedPage)
         })
       }
       return { page: page.default || page }
@@ -5058,12 +5058,12 @@ module.exports = invariant;
 
 /***/ "./node_modules/object-assign/index.js":
 /*!***************************************************************************************************!*\
-  !*** delegated ./node_modules/object-assign/index.js from dll-reference dll_829b10deddf10e1653a8 ***!
+  !*** delegated ./node_modules/object-assign/index.js from dll-reference dll_7aff549c98b978433226 ***!
   \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_829b10deddf10e1653a8 */ "dll-reference dll_829b10deddf10e1653a8"))("./node_modules/object-assign/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_7aff549c98b978433226 */ "dll-reference dll_7aff549c98b978433226"))("./node_modules/object-assign/index.js");
 
 /***/ }),
 
@@ -7918,12 +7918,12 @@ module.exports = exports['default'];
 
 /***/ "./node_modules/prop-types/checkPropTypes.js":
 /*!*********************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/checkPropTypes.js from dll-reference dll_829b10deddf10e1653a8 ***!
+  !*** delegated ./node_modules/prop-types/checkPropTypes.js from dll-reference dll_7aff549c98b978433226 ***!
   \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_829b10deddf10e1653a8 */ "dll-reference dll_829b10deddf10e1653a8"))("./node_modules/prop-types/checkPropTypes.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_7aff549c98b978433226 */ "dll-reference dll_7aff549c98b978433226"))("./node_modules/prop-types/checkPropTypes.js");
 
 /***/ }),
 
@@ -8558,12 +8558,12 @@ if (true) {
 
 /***/ "./node_modules/prop-types/lib/ReactPropTypesSecret.js":
 /*!*******************************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_829b10deddf10e1653a8 ***!
+  !*** delegated ./node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_7aff549c98b978433226 ***!
   \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_829b10deddf10e1653a8 */ "dll-reference dll_829b10deddf10e1653a8"))("./node_modules/prop-types/lib/ReactPropTypesSecret.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_7aff549c98b978433226 */ "dll-reference dll_7aff549c98b978433226"))("./node_modules/prop-types/lib/ReactPropTypesSecret.js");
 
 /***/ }),
 
@@ -16914,12 +16914,12 @@ function mapContextToProps(maybeOpts, mapToProps, Component) {
 
 /***/ "./node_modules/react-dom/index.js":
 /*!***********************************************************************************************!*\
-  !*** delegated ./node_modules/react-dom/index.js from dll-reference dll_829b10deddf10e1653a8 ***!
+  !*** delegated ./node_modules/react-dom/index.js from dll-reference dll_7aff549c98b978433226 ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_829b10deddf10e1653a8 */ "dll-reference dll_829b10deddf10e1653a8"))("./node_modules/react-dom/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_7aff549c98b978433226 */ "dll-reference dll_7aff549c98b978433226"))("./node_modules/react-dom/index.js");
 
 /***/ }),
 
@@ -20175,12 +20175,12 @@ var safeInvoke = function safeInvoke(fn) {
 
 /***/ "./node_modules/react/index.js":
 /*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_829b10deddf10e1653a8 ***!
+  !*** delegated ./node_modules/react/index.js from dll-reference dll_7aff549c98b978433226 ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_829b10deddf10e1653a8 */ "dll-reference dll_829b10deddf10e1653a8"))("./node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_7aff549c98b978433226 */ "dll-reference dll_7aff549c98b978433226"))("./node_modules/react/index.js");
 
 /***/ }),
 
@@ -20589,383 +20589,355 @@ module.exports = warning;
 
 /***/ "./node_modules/webpack/buildin/global.js":
 /*!******************************************************************************************************!*\
-  !*** delegated ./node_modules/webpack/buildin/global.js from dll-reference dll_829b10deddf10e1653a8 ***!
+  !*** delegated ./node_modules/webpack/buildin/global.js from dll-reference dll_7aff549c98b978433226 ***!
   \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_829b10deddf10e1653a8 */ "dll-reference dll_829b10deddf10e1653a8"))("./node_modules/webpack/buildin/global.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_7aff549c98b978433226 */ "dll-reference dll_7aff549c98b978433226"))("./node_modules/webpack/buildin/global.js");
 
 /***/ }),
 
-/***/ "./pages/Dashboard.js":
+/***/ "./pages/dashboard.js":
 /*!****************************!*\
-  !*** ./pages/Dashboard.js ***!
+  !*** ./pages/dashboard.js ***!
   \****************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Dashboard; });
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
-/* harmony import */ var react_bootstrap__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react-bootstrap */ "./node_modules/react-bootstrap/es/index.js");
-/* harmony import */ var _components_Card_Card_jsx__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Card/Card.jsx */ "./components/Card/Card.jsx");
-/* harmony import */ var _components_StatsCard_StatsCard__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../components/StatsCard/StatsCard */ "./components/StatsCard/StatsCard.jsx");
-/* harmony import */ var _components_Tasks_Tasks_jsx__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../components/Tasks/Tasks.jsx */ "./components/Tasks/Tasks.jsx");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_9__);
-
-
-
-
-
-var _jsxFileName = "C:\\Users\\19402\\Desktop\\Roxanne\\Next_Bootstrap_Admin_Template\\pages\\Dashboard.js";
+/* harmony import */ var react_bootstrap__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react-bootstrap */ "./node_modules/react-bootstrap/es/index.js");
+/* harmony import */ var _components_Card_Card_jsx__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Card/Card.jsx */ "./components/Card/Card.jsx");
+/* harmony import */ var _components_StatsCard_StatsCard__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/StatsCard/StatsCard */ "./components/StatsCard/StatsCard.jsx");
+/* harmony import */ var _components_Tasks_Tasks_jsx__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Tasks/Tasks.jsx */ "./components/Tasks/Tasks.jsx");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_4__);
+var _jsxFileName = "C:\\Users\\RxRbl\\Desktop\\Work\\Next_Admin_BS_Template\\NextJs-Admin-Template\\pages\\dashboard.js";
 
 
 
 
 
 
-var Dashboard =
-/*#__PURE__*/
-function (_Component) {
-  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(Dashboard, _Component);
+var Dashboard = function Dashboard() {
+  return react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("div", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 13
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_0__["Container"], {
+    fluid: true,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_0__["Row"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_0__["Col"], {
+    lg: 3,
+    sm: 6,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_components_StatsCard_StatsCard__WEBPACK_IMPORTED_MODULE_2__["StatsCard"], {
+    bigIcon: react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("i", {
+      className: "pe-7s-server text-warning",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 18
+      },
+      __self: this
+    }),
+    statsText: "Capacity",
+    statsValue: "105GB",
+    statsIcon: react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("i", {
+      className: "fa fa-refresh",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 21
+      },
+      __self: this
+    }),
+    statsIconText: "Updated now",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_0__["Col"], {
+    lg: 3,
+    sm: 6,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_components_StatsCard_StatsCard__WEBPACK_IMPORTED_MODULE_2__["StatsCard"], {
+    bigIcon: react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("i", {
+      className: "pe-7s-wallet text-success",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 27
+      },
+      __self: this
+    }),
+    statsText: "Revenue",
+    statsValue: "$1,345",
+    statsIcon: react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("i", {
+      className: "fa fa-calendar-o",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 30
+      },
+      __self: this
+    }),
+    statsIconText: "Last day",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_0__["Col"], {
+    lg: 3,
+    sm: 6,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 34
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_components_StatsCard_StatsCard__WEBPACK_IMPORTED_MODULE_2__["StatsCard"], {
+    bigIcon: react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("i", {
+      className: "pe-7s-graph1 text-danger",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 36
+      },
+      __self: this
+    }),
+    statsText: "Errors",
+    statsValue: "23",
+    statsIcon: react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("i", {
+      className: "fa fa-clock-o",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 39
+      },
+      __self: this
+    }),
+    statsIconText: "In the last hour",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 35
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_0__["Col"], {
+    lg: 3,
+    sm: 6,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 43
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_components_StatsCard_StatsCard__WEBPACK_IMPORTED_MODULE_2__["StatsCard"], {
+    bigIcon: react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("i", {
+      className: "fa fa-twitter text-info",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 45
+      },
+      __self: this
+    }),
+    statsText: "Followers",
+    statsValue: "+45",
+    statsIcon: react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("i", {
+      className: "fa fa-refresh",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 48
+      },
+      __self: this
+    }),
+    statsIconText: "Updated now",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 44
+    },
+    __self: this
+  }))), react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_0__["Row"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 53
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_0__["Col"], {
+    md: 8,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 54
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_components_Card_Card_jsx__WEBPACK_IMPORTED_MODULE_1__["Card"], {
+    statsIcon: "fa fa-history",
+    id: "chartHours",
+    title: "Users Behavior",
+    category: "24 Hours performance",
+    stats: "Updated 3 minutes ago",
+    content: react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("div", {
+      className: "ct-chart",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 62
+      },
+      __self: this
+    }) // legend={
+    // <div className="legend">{this.createLegend(legendSales)}</div>
+    // }
+    ,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 55
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_0__["Col"], {
+    md: 4,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 76
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_components_Card_Card_jsx__WEBPACK_IMPORTED_MODULE_1__["Card"], {
+    statsIcon: "fa fa-clock-o",
+    title: "Email Statistics",
+    category: "Last Campaign Performance",
+    stats: "Campaign sent 2 days ago",
+    content: react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("div", {
+      id: "chartPreferences",
+      className: "ct-chart ct-perfect-fourth",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 83
+      },
+      __self: this
+    }) // legend={
+    // <div className="legend">{this.createLegend(legendPie)}</div>
+    // }
+    ,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 77
+    },
+    __self: this
+  }))), react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_0__["Row"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 96
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_0__["Col"], {
+    md: 6,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 97
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_components_Card_Card_jsx__WEBPACK_IMPORTED_MODULE_1__["Card"], {
+    id: "chartActivity",
+    title: "2014 Sales",
+    category: "All products including Taxes",
+    stats: "Data information certified",
+    statsIcon: "fa fa-check",
+    content: react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("div", {
+      className: "ct-chart",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 105
+      },
+      __self: this
+    }) // legend={
+    // <div className="legend">{this.createLegend(legendBar)}</div>
+    // }
+    ,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 98
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_0__["Col"], {
+    md: 6,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 120
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_components_Card_Card_jsx__WEBPACK_IMPORTED_MODULE_1__["Card"], {
+    title: "Tasks",
+    category: "Backend development",
+    stats: "Updated 3 minutes ago",
+    statsIcon: "fa fa-history",
+    content: react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("div", {
+      className: "table-full-width",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 127
+      },
+      __self: this
+    }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement("table", {
+      className: "table",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 128
+      },
+      __self: this
+    }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_components_Tasks_Tasks_jsx__WEBPACK_IMPORTED_MODULE_3__["Tasks"], {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 129
+      },
+      __self: this
+    }))),
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 121
+    },
+    __self: this
+  })))));
+};
 
-  function Dashboard() {
-    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, Dashboard);
-
-    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(Dashboard).apply(this, arguments));
-  }
-
-  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(Dashboard, [{
-    key: "render",
-    value: function render() {
-      return react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("div", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 13
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_5__["Container"], {
-        fluid: true,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 14
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_5__["Row"], {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 15
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_5__["Col"], {
-        lg: 3,
-        sm: 6,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 16
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(_components_StatsCard_StatsCard__WEBPACK_IMPORTED_MODULE_7__["StatsCard"], {
-        bigIcon: react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("i", {
-          className: "pe-7s-server text-warning",
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 18
-          },
-          __self: this
-        }),
-        statsText: "Capacity",
-        statsValue: "105GB",
-        statsIcon: react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("i", {
-          className: "fa fa-refresh",
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 21
-          },
-          __self: this
-        }),
-        statsIconText: "Updated now",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 17
-        },
-        __self: this
-      })), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_5__["Col"], {
-        lg: 3,
-        sm: 6,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 25
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(_components_StatsCard_StatsCard__WEBPACK_IMPORTED_MODULE_7__["StatsCard"], {
-        bigIcon: react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("i", {
-          className: "pe-7s-wallet text-success",
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 27
-          },
-          __self: this
-        }),
-        statsText: "Revenue",
-        statsValue: "$1,345",
-        statsIcon: react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("i", {
-          className: "fa fa-calendar-o",
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 30
-          },
-          __self: this
-        }),
-        statsIconText: "Last day",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 26
-        },
-        __self: this
-      })), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_5__["Col"], {
-        lg: 3,
-        sm: 6,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 34
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(_components_StatsCard_StatsCard__WEBPACK_IMPORTED_MODULE_7__["StatsCard"], {
-        bigIcon: react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("i", {
-          className: "pe-7s-graph1 text-danger",
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 36
-          },
-          __self: this
-        }),
-        statsText: "Errors",
-        statsValue: "23",
-        statsIcon: react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("i", {
-          className: "fa fa-clock-o",
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 39
-          },
-          __self: this
-        }),
-        statsIconText: "In the last hour",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 35
-        },
-        __self: this
-      })), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_5__["Col"], {
-        lg: 3,
-        sm: 6,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 43
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(_components_StatsCard_StatsCard__WEBPACK_IMPORTED_MODULE_7__["StatsCard"], {
-        bigIcon: react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("i", {
-          className: "fa fa-twitter text-info",
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 45
-          },
-          __self: this
-        }),
-        statsText: "Followers",
-        statsValue: "+45",
-        statsIcon: react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("i", {
-          className: "fa fa-refresh",
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 48
-          },
-          __self: this
-        }),
-        statsIconText: "Updated now",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 44
-        },
-        __self: this
-      }))), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_5__["Row"], {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 53
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_5__["Col"], {
-        md: 8,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 54
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(_components_Card_Card_jsx__WEBPACK_IMPORTED_MODULE_6__["Card"], {
-        statsIcon: "fa fa-history",
-        id: "chartHours",
-        title: "Users Behavior",
-        category: "24 Hours performance",
-        stats: "Updated 3 minutes ago",
-        content: react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("div", {
-          className: "ct-chart",
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 62
-          },
-          __self: this
-        }) // legend={
-        // <div className="legend">{this.createLegend(legendSales)}</div>
-        // }
-        ,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 55
-        },
-        __self: this
-      })), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_5__["Col"], {
-        md: 4,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 76
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(_components_Card_Card_jsx__WEBPACK_IMPORTED_MODULE_6__["Card"], {
-        statsIcon: "fa fa-clock-o",
-        title: "Email Statistics",
-        category: "Last Campaign Performance",
-        stats: "Campaign sent 2 days ago",
-        content: react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("div", {
-          id: "chartPreferences",
-          className: "ct-chart ct-perfect-fourth",
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 83
-          },
-          __self: this
-        }) // legend={
-        // <div className="legend">{this.createLegend(legendPie)}</div>
-        // }
-        ,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 77
-        },
-        __self: this
-      }))), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_5__["Row"], {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 96
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_5__["Col"], {
-        md: 6,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 97
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(_components_Card_Card_jsx__WEBPACK_IMPORTED_MODULE_6__["Card"], {
-        id: "chartActivity",
-        title: "2014 Sales",
-        category: "All products including Taxes",
-        stats: "Data information certified",
-        statsIcon: "fa fa-check",
-        content: react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("div", {
-          className: "ct-chart",
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 105
-          },
-          __self: this
-        }) // legend={
-        // <div className="legend">{this.createLegend(legendBar)}</div>
-        // }
-        ,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 98
-        },
-        __self: this
-      })), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(react_bootstrap__WEBPACK_IMPORTED_MODULE_5__["Col"], {
-        md: 6,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 120
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(_components_Card_Card_jsx__WEBPACK_IMPORTED_MODULE_6__["Card"], {
-        title: "Tasks",
-        category: "Backend development",
-        stats: "Updated 3 minutes ago",
-        statsIcon: "fa fa-history",
-        content: react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("div", {
-          className: "table-full-width",
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 127
-          },
-          __self: this
-        }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("table", {
-          className: "table",
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 128
-          },
-          __self: this
-        }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(_components_Tasks_Tasks_jsx__WEBPACK_IMPORTED_MODULE_8__["Tasks"], {
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 129
-          },
-          __self: this
-        }))),
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 121
-        },
-        __self: this
-      })))));
-    }
-  }]);
-
-  return Dashboard;
-}(react__WEBPACK_IMPORTED_MODULE_9__["Component"]);
-
-
+/* harmony default export */ __webpack_exports__["default"] = (Dashboard);
 
 /***/ }),
 
-/***/ 0:
-/*!*************************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2FDashboard&absolutePagePath=C%3A%5CUsers%5C19402%5CDesktop%5CRoxanne%5CNext_Bootstrap_Admin_Template%5Cpages%5CDashboard.js ***!
-  \*************************************************************************************************************************************************************************/
+/***/ 2:
+/*!***************************************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fdashboard&absolutePagePath=C%3A%5CUsers%5CRxRbl%5CDesktop%5CWork%5CNext_Admin_BS_Template%5CNextJs-Admin-Template%5Cpages%5Cdashboard.js ***!
+  \***************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2FDashboard&absolutePagePath=C%3A%5CUsers%5C19402%5CDesktop%5CRoxanne%5CNext_Bootstrap_Admin_Template%5Cpages%5CDashboard.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2FDashboard&absolutePagePath=C%3A%5CUsers%5C19402%5CDesktop%5CRoxanne%5CNext_Bootstrap_Admin_Template%5Cpages%5CDashboard.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fdashboard&absolutePagePath=C%3A%5CUsers%5CRxRbl%5CDesktop%5CWork%5CNext_Admin_BS_Template%5CNextJs-Admin-Template%5Cpages%5Cdashboard.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fdashboard&absolutePagePath=C%3A%5CUsers%5CRxRbl%5CDesktop%5CWork%5CNext_Admin_BS_Template%5CNextJs-Admin-Template%5Cpages%5Cdashboard.js!./");
 
 
 /***/ }),
 
-/***/ "dll-reference dll_829b10deddf10e1653a8":
+/***/ "dll-reference dll_7aff549c98b978433226":
 /*!*******************************************!*\
-  !*** external "dll_829b10deddf10e1653a8" ***!
+  !*** external "dll_7aff549c98b978433226" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_829b10deddf10e1653a8;
+module.exports = dll_7aff549c98b978433226;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
-//# sourceMappingURL=Dashboard.js.map
+},[[2,"static/runtime/webpack.js"]]]);
+//# sourceMappingURL=dashboard.js.map
